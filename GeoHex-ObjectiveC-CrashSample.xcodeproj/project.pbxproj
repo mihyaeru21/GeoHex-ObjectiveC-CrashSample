@@ -10,7 +10,7 @@
 		B0600514AE5BF1A7BA94B5E4 /* libPods-GeoHex-ObjectiveC-CrashSample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AF9C48862EF178638204D984 /* libPods-GeoHex-ObjectiveC-CrashSample.a */; };
 		F19A3D341B2A8F0600D3BF0C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F19A3D331B2A8F0600D3BF0C /* main.m */; };
 		F19A3D371B2A8F0600D3BF0C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F19A3D361B2A8F0600D3BF0C /* AppDelegate.m */; };
-		F19A3D3A1B2A8F0600D3BF0C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F19A3D391B2A8F0600D3BF0C /* ViewController.m */; };
+		F19A3D3A1B2A8F0600D3BF0C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F19A3D391B2A8F0600D3BF0C /* ViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F19A3D3D1B2A8F0600D3BF0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F19A3D3B1B2A8F0600D3BF0C /* Main.storyboard */; };
 		F19A3D3F1B2A8F0600D3BF0C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F19A3D3E1B2A8F0600D3BF0C /* Images.xcassets */; };
 		F19A3D421B2A8F0600D3BF0C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F19A3D401B2A8F0600D3BF0C /* LaunchScreen.xib */; };
