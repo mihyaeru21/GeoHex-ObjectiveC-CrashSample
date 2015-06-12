@@ -1,0 +1,19 @@
+PODS:
+  - GeoHex-ObjectiveC (0.0.1)
+
+DEPENDENCIES:
+  - GeoHex-ObjectiveC (from `https://github.com/gillygize/GeoHex-ObjectiveC.git`)
+
+EXTERNAL SOURCES:
+  GeoHex-ObjectiveC:
+    :git: https://github.com/gillygize/GeoHex-ObjectiveC.git
+
+CHECKOUT OPTIONS:
+  GeoHex-ObjectiveC:
+    :commit: a0bab81a23b70476d06e5763953cdcd7ef01b90a
+    :git: https://github.com/gillygize/GeoHex-ObjectiveC.git
+
+SPEC CHECKSUMS:
+  GeoHex-ObjectiveC: 7a1e05b35249e4afa78707018d451a4a75bae115
+
+COCOAPODS: 0.37.1
