@@ -34,6 +34,7 @@
     [geohex release];                                              // will release self.code
 
     NSLog(@"retain count: %ld", self.code.retainCount);            // will cause crash
+    NSLog(@"%@", self.code);
 }
 
 @end
